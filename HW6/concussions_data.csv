@@ -1,0 +1,525 @@
+age,nyearsplaying,position,prevconc,concussion
+18,4,Offensive Lineman,2,moderate
+17,4,Cornerback,0,mild
+21,7,Offensive Lineman,2,severe
+18,4,Cornerback,0,mild
+17,4,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,2,severe
+18,4,Offensive Lineman,0,moderate
+20,6,Cornerback,0,mild
+15,3,Cornerback,2,severe
+18,5,Cornerback,0,mild
+16,3,Offensive Lineman,1,moderate
+18,5,Running Back,2,severe
+15,3,Wide Receiver,0,mild
+22,8,Cornerback,0,mild
+18,4,Offensive Lineman,1,moderate
+18,5,Cornerback,0,mild
+19,7,Offensive Lineman,1,moderate
+14,2,Offensive Lineman,1,moderate
+18,3,Running Back,2,severe
+18,4,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,1,moderate
+16,3,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+22,8,Quarterback,3,severe
+14,2,Offensive Lineman,2,moderate
+16,5,Offensive Lineman,1,moderate
+19,6,Cornerback,0,mild
+19,6,Offensive Lineman,1,moderate
+20,7,Cornerback,0,mild
+21,7,Offensive Lineman,2,severe
+15,2,Running Back,2,severe
+19,3,Wide Receiver,2,severe
+15,5,Offensive Lineman,2,moderate
+19,7,Quarterback,2,severe
+17,5,Offensive Lineman,1,moderate
+18,4,Offensive Lineman,1,moderate
+21,7,Quarterback,2,severe
+16,5,Quarterback,2,moderate
+16,3,Quarterback,2,moderate
+16,3,Offensive Lineman,1,moderate
+14,1,Cornerback,0,mild
+16,4,Cornerback,0,mild
+21,7,Cornerback,0,mild
+21,7,Offensive Lineman,1,moderate
+22,8,Running Back,2,severe
+20,6,Quarterback,3,severe
+16,3,Offensive Lineman,2,severe
+20,5,Quarterback,2,severe
+15,4,Running Back,2,severe
+21,7,Offensive Lineman,1,moderate
+14,1,Offensive Lineman,2,moderate
+16,3,Wide Receiver,0,mild
+20,6,Offensive Lineman,2,moderate
+15,3,Cornerback,0,mild
+16,3,Cornerback,0,mild
+17,4,Running Back,2,severe
+17,5,Offensive Lineman,1,moderate
+20,6,Offensive Lineman,0,moderate
+19,7,Quarterback,2,moderate
+21,7,Cornerback,2,severe
+22,8,Quarterback,2,moderate
+22,8,Offensive Lineman,1,moderate
+21,7,Offensive Lineman,1,moderate
+17,5,Cornerback,0,mild
+18,4,Cornerback,0,mild
+17,5,Quarterback,2,severe
+21,8,Offensive Lineman,1,moderate
+21,6,Cornerback,0,mild
+14,2,Cornerback,0,mild
+22,8,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,1,moderate
+16,3,Running Back,2,severe
+16,3,Cornerback,0,mild
+18,5,Quarterback,2,severe
+16,3,Running Back,2,severe
+19,5,Offensive Lineman,0,mild
+16,2,Offensive Lineman,1,moderate
+20,6,Wide Receiver,0,mild
+22,8,Quarterback,2,moderate
+20,6,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,1,moderate
+21,5,Wide Receiver,2,severe
+16,3,Wide Receiver,0,mild
+20,7,Cornerback,0,mild
+16,3,Quarterback,2,moderate
+21,5,Cornerback,0,mild
+18,4,Cornerback,0,mild
+19,7,Offensive Lineman,1,moderate
+15,3,Cornerback,0,mild
+18,4,Offensive Lineman,1,moderate
+14,2,Offensive Lineman,2,moderate
+16,5,Offensive Lineman,1,moderate
+22,8,Wide Receiver,2,severe
+18,5,Cornerback,0,mild
+18,4,Running Back,2,severe
+14,1,Running Back,2,severe
+17,4,Offensive Lineman,1,moderate
+22,8,Wide Receiver,0,mild
+15,3,Offensive Lineman,0,moderate
+22,8,Offensive Lineman,1,moderate
+20,7,Offensive Lineman,1,moderate
+18,4,Offensive Lineman,1,moderate
+17,3,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,1,moderate
+21,8,Cornerback,0,mild
+18,4,Offensive Lineman,1,moderate
+16,5,Wide Receiver,2,severe
+19,4,Cornerback,0,mild
+16,4,Offensive Lineman,1,moderate
+22,8,Offensive Lineman,1,moderate
+21,7,Cornerback,2,severe
+18,4,Offensive Lineman,1,moderate
+19,5,Offensive Lineman,1,moderate
+21,7,Cornerback,0,mild
+19,4,Offensive Lineman,1,moderate
+14,2,Cornerback,0,mild
+16,4,Quarterback,2,severe
+17,5,Offensive Lineman,1,moderate
+22,7,Wide Receiver,0,mild
+16,5,Offensive Lineman,1,moderate
+16,2,Wide Receiver,2,severe
+16,4,Cornerback,0,mild
+19,7,Offensive Lineman,0,mild
+22,8,Running Back,2,severe
+15,5,Wide Receiver,0,mild
+22,8,Quarterback,2,moderate
+17,4,Cornerback,0,mild
+18,4,Offensive Lineman,2,severe
+22,8,Offensive Lineman,2,moderate
+19,6,Cornerback,3,severe
+19,7,Cornerback,0,mild
+18,5,Wide Receiver,0,mild
+18,5,Running Back,2,severe
+19,6,Cornerback,0,mild
+20,7,Cornerback,0,mild
+22,8,Cornerback,0,mild
+17,4,Cornerback,0,mild
+22,8,Cornerback,0,mild
+16,3,Running Back,2,severe
+19,7,Offensive Lineman,2,severe
+20,7,Offensive Lineman,2,moderate
+19,6,Quarterback,2,moderate
+16,5,Cornerback,0,mild
+15,5,Offensive Lineman,0,moderate
+18,4,Running Back,2,severe
+21,7,Offensive Lineman,0,moderate
+20,6,Offensive Lineman,1,moderate
+14,1,Offensive Lineman,2,severe
+17,4,Offensive Lineman,1,moderate
+14,1,Running Back,2,severe
+16,3,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,1,moderate
+21,6,Offensive Lineman,1,moderate
+17,4,Quarterback,2,moderate
+16,3,Cornerback,0,mild
+22,8,Wide Receiver,0,mild
+18,4,Running Back,2,severe
+20,6,Offensive Lineman,0,mild
+18,4,Cornerback,0,mild
+15,5,Offensive Lineman,1,moderate
+20,7,Cornerback,0,mild
+16,5,Quarterback,2,severe
+21,7,Running Back,2,severe
+18,4,Offensive Lineman,2,moderate
+14,2,Offensive Lineman,2,moderate
+19,5,Cornerback,2,severe
+21,7,Offensive Lineman,2,moderate
+20,5,Offensive Lineman,0,moderate
+17,3,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,0,moderate
+16,2,Offensive Lineman,2,moderate
+16,4,Quarterback,2,severe
+20,6,Offensive Lineman,1,moderate
+14,1,Cornerback,0,mild
+19,6,Offensive Lineman,2,severe
+15,2,Wide Receiver,0,mild
+22,8,Offensive Lineman,1,moderate
+14,2,Offensive Lineman,1,moderate
+18,5,Cornerback,0,mild
+19,6,Offensive Lineman,2,moderate
+17,4,Cornerback,0,mild
+22,7,Running Back,2,severe
+16,2,Running Back,2,severe
+20,6,Running Back,2,severe
+15,2,Offensive Lineman,2,severe
+15,1,Cornerback,0,mild
+15,4,Offensive Lineman,2,moderate
+14,2,Wide Receiver,0,mild
+21,6,Quarterback,3,severe
+19,6,Offensive Lineman,1,moderate
+17,5,Wide Receiver,0,mild
+15,5,Quarterback,2,severe
+16,3,Offensive Lineman,1,moderate
+21,8,Cornerback,0,mild
+19,7,Wide Receiver,2,severe
+17,5,Cornerback,0,mild
+20,5,Cornerback,0,mild
+21,7,Wide Receiver,0,mild
+17,5,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,1,moderate
+17,4,Cornerback,0,mild
+20,6,Wide Receiver,2,severe
+22,8,Offensive Lineman,1,moderate
+18,4,Cornerback,0,mild
+16,3,Running Back,2,severe
+17,3,Offensive Lineman,1,moderate
+19,6,Quarterback,2,severe
+21,7,Running Back,2,severe
+21,7,Wide Receiver,0,mild
+22,8,Offensive Lineman,2,moderate
+17,5,Offensive Lineman,1,moderate
+20,5,Offensive Lineman,2,moderate
+18,4,Cornerback,0,mild
+20,5,Wide Receiver,2,severe
+15,3,Offensive Lineman,0,mild
+17,4,Wide Receiver,0,mild
+21,7,Offensive Lineman,1,moderate
+20,7,Offensive Lineman,1,moderate
+18,4,Cornerback,0,mild
+21,7,Offensive Lineman,1,moderate
+20,6,Quarterback,2,moderate
+19,5,Cornerback,0,mild
+22,8,Offensive Lineman,1,moderate
+14,2,Cornerback,0,mild
+19,5,Running Back,2,severe
+18,5,Cornerback,0,mild
+16,3,Wide Receiver,0,mild
+17,5,Cornerback,0,mild
+20,6,Offensive Lineman,2,moderate
+21,7,Wide Receiver,0,mild
+15,3,Offensive Lineman,0,moderate
+15,3,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,1,moderate
+14,2,Wide Receiver,0,mild
+15,5,Offensive Lineman,2,moderate
+20,7,Cornerback,0,mild
+16,3,Cornerback,0,mild
+17,4,Wide Receiver,0,mild
+14,2,Offensive Lineman,1,moderate
+18,4,Offensive Lineman,2,moderate
+17,4,Running Back,2,severe
+20,6,Running Back,2,severe
+14,1,Offensive Lineman,1,moderate
+19,7,Cornerback,0,mild
+21,8,Cornerback,0,mild
+20,6,Offensive Lineman,1,moderate
+14,1,Offensive Lineman,1,moderate
+20,6,Cornerback,0,mild
+21,7,Offensive Lineman,2,moderate
+16,3,Cornerback,0,mild
+19,5,Offensive Lineman,1,moderate
+19,5,Wide Receiver,2,severe
+22,8,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,1,moderate
+15,5,Offensive Lineman,2,severe
+15,1,Offensive Lineman,1,moderate
+22,8,Cornerback,0,mild
+19,5,Running Back,2,severe
+16,5,Offensive Lineman,2,severe
+19,7,Offensive Lineman,1,moderate
+18,4,Quarterback,2,severe
+20,7,Cornerback,0,mild
+17,5,Offensive Lineman,1,moderate
+17,5,Wide Receiver,0,mild
+20,6,Cornerback,0,mild
+18,5,Offensive Lineman,1,moderate
+21,8,Offensive Lineman,1,moderate
+19,5,Running Back,2,severe
+22,8,Cornerback,0,mild
+18,3,Cornerback,0,mild
+18,5,Offensive Lineman,1,moderate
+18,4,Quarterback,2,moderate
+21,6,Offensive Lineman,2,moderate
+18,4,Quarterback,2,moderate
+19,5,Offensive Lineman,1,moderate
+20,6,Cornerback,0,mild
+16,3,Offensive Lineman,1,moderate
+22,8,Offensive Lineman,1,moderate
+21,8,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,0,moderate
+22,8,Cornerback,0,mild
+17,5,Offensive Lineman,2,severe
+22,7,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,2,moderate
+21,7,Quarterback,2,moderate
+15,3,Running Back,2,severe
+15,3,Offensive Lineman,1,moderate
+20,6,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+15,0,Offensive Lineman,1,moderate
+14,2,Cornerback,2,severe
+15,3,Quarterback,2,severe
+20,7,Cornerback,0,mild
+18,3,Quarterback,2,severe
+17,4,Cornerback,0,mild
+18,4,Offensive Lineman,2,moderate
+15,3,Offensive Lineman,2,severe
+14,2,Cornerback,0,mild
+20,7,Running Back,2,severe
+22,8,Running Back,2,severe
+18,5,Quarterback,2,moderate
+17,5,Cornerback,0,mild
+14,0,Offensive Lineman,1,moderate
+21,8,Offensive Lineman,1,moderate
+21,6,Quarterback,2,severe
+17,5,Offensive Lineman,1,moderate
+16,2,Cornerback,0,mild
+22,8,Offensive Lineman,0,moderate
+16,3,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,2,severe
+16,3,Offensive Lineman,1,moderate
+19,6,Cornerback,0,mild
+17,4,Offensive Lineman,1,moderate
+21,7,Quarterback,2,moderate
+19,6,Quarterback,2,moderate
+15,5,Offensive Lineman,2,moderate
+17,5,Running Back,2,severe
+14,2,Cornerback,2,severe
+17,4,Offensive Lineman,1,moderate
+16,3,Running Back,2,severe
+15,5,Offensive Lineman,1,moderate
+20,5,Quarterback,2,severe
+18,4,Offensive Lineman,1,moderate
+17,4,Running Back,2,severe
+20,5,Cornerback,2,severe
+18,4,Quarterback,2,severe
+17,4,Offensive Lineman,1,moderate
+14,2,Quarterback,2,severe
+17,4,Running Back,2,severe
+17,5,Cornerback,0,mild
+17,3,Cornerback,0,mild
+20,7,Cornerback,3,severe
+14,1,Running Back,2,severe
+15,2,Quarterback,2,severe
+14,1,Wide Receiver,0,mild
+19,6,Running Back,2,severe
+16,4,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,1,moderate
+16,5,Cornerback,0,mild
+22,8,Cornerback,3,severe
+19,6,Offensive Lineman,1,moderate
+15,2,Cornerback,0,mild
+22,8,Cornerback,0,mild
+14,2,Offensive Lineman,1,moderate
+18,4,Cornerback,0,mild
+19,6,Running Back,2,severe
+22,8,Running Back,2,severe
+19,7,Wide Receiver,2,severe
+21,7,Cornerback,2,severe
+19,4,Cornerback,0,mild
+20,6,Offensive Lineman,1,moderate
+20,5,Offensive Lineman,2,moderate
+15,3,Offensive Lineman,1,moderate
+20,6,Offensive Lineman,1,moderate
+18,4,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,2,moderate
+14,1,Offensive Lineman,1,moderate
+20,7,Quarterback,2,moderate
+17,4,Running Back,2,severe
+18,5,Running Back,2,severe
+19,6,Running Back,2,severe
+16,3,Offensive Lineman,2,severe
+16,2,Offensive Lineman,1,moderate
+19,4,Cornerback,0,mild
+21,7,Running Back,2,severe
+14,1,Offensive Lineman,1,moderate
+18,5,Offensive Lineman,1,moderate
+20,6,Running Back,2,severe
+17,4,Offensive Lineman,1,moderate
+17,5,Offensive Lineman,1,moderate
+14,2,Cornerback,0,mild
+17,5,Offensive Lineman,1,moderate
+18,5,Offensive Lineman,2,moderate
+15,3,Cornerback,0,mild
+17,5,Quarterback,2,severe
+20,7,Running Back,2,severe
+17,3,Running Back,2,severe
+20,6,Cornerback,0,mild
+20,5,Offensive Lineman,2,moderate
+14,1,Wide Receiver,2,severe
+20,6,Offensive Lineman,0,moderate
+15,3,Offensive Lineman,0,moderate
+16,3,Offensive Lineman,0,moderate
+17,4,Cornerback,0,mild
+19,6,Cornerback,0,mild
+19,5,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+19,6,Running Back,2,severe
+14,0,Wide Receiver,0,mild
+15,1,Offensive Lineman,1,moderate
+20,6,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,2,moderate
+19,4,Quarterback,2,moderate
+20,6,Wide Receiver,0,mild
+14,1,Cornerback,0,mild
+22,8,Quarterback,3,severe
+17,4,Offensive Lineman,1,moderate
+17,4,Quarterback,2,moderate
+18,5,Running Back,2,severe
+21,7,Offensive Lineman,1,moderate
+15,5,Cornerback,0,mild
+18,4,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+19,7,Offensive Lineman,1,moderate
+22,8,Cornerback,0,mild
+15,3,Cornerback,2,severe
+14,2,Offensive Lineman,1,moderate
+22,8,Cornerback,0,mild
+17,4,Quarterback,2,severe
+22,8,Offensive Lineman,2,moderate
+20,6,Quarterback,2,severe
+17,5,Offensive Lineman,1,moderate
+15,3,Offensive Lineman,2,severe
+16,5,Offensive Lineman,2,severe
+17,4,Wide Receiver,2,severe
+20,5,Offensive Lineman,2,moderate
+15,1,Cornerback,0,mild
+18,4,Cornerback,0,mild
+15,3,Offensive Lineman,1,moderate
+20,6,Quarterback,2,severe
+14,2,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,1,moderate
+20,6,Offensive Lineman,2,severe
+18,4,Offensive Lineman,0,moderate
+21,9,Offensive Lineman,0,moderate
+16,2,Running Back,2,severe
+21,7,Quarterback,2,severe
+22,8,Running Back,2,severe
+18,4,Running Back,2,severe
+16,4,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,0,mild
+21,7,Running Back,2,severe
+22,7,Offensive Lineman,0,moderate
+18,4,Cornerback,0,mild
+20,7,Offensive Lineman,2,moderate
+14,0,Offensive Lineman,1,moderate
+15,2,Wide Receiver,2,severe
+15,3,Offensive Lineman,2,moderate
+16,3,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,1,moderate
+19,7,Offensive Lineman,2,moderate
+19,6,Offensive Lineman,2,moderate
+22,8,Offensive Lineman,1,moderate
+17,4,Offensive Lineman,1,moderate
+16,4,Cornerback,0,mild
+17,4,Quarterback,2,moderate
+22,8,Offensive Lineman,1,moderate
+16,2,Offensive Lineman,1,moderate
+17,5,Cornerback,0,mild
+14,1,Running Back,2,severe
+15,2,Running Back,2,severe
+22,8,Cornerback,0,mild
+16,4,Quarterback,2,moderate
+14,2,Cornerback,0,mild
+16,3,Offensive Lineman,1,moderate
+15,3,Offensive Lineman,1,moderate
+22,8,Offensive Lineman,0,moderate
+17,5,Offensive Lineman,1,moderate
+14,2,Offensive Lineman,1,moderate
+15,5,Offensive Lineman,1,moderate
+15,3,Cornerback,0,mild
+19,6,Quarterback,2,severe
+20,6,Offensive Lineman,2,moderate
+17,4,Offensive Lineman,2,moderate
+15,3,Cornerback,0,mild
+14,2,Offensive Lineman,1,moderate
+18,4,Offensive Lineman,1,moderate
+18,4,Wide Receiver,2,severe
+14,1,Cornerback,0,mild
+22,8,Wide Receiver,0,mild
+22,8,Offensive Lineman,2,severe
+16,3,Quarterback,2,severe
+21,7,Offensive Lineman,1,moderate
+20,6,Cornerback,0,mild
+19,7,Offensive Lineman,1,moderate
+16,3,Offensive Lineman,2,moderate
+18,5,Cornerback,0,mild
+19,6,Quarterback,2,severe
+14,1,Offensive Lineman,2,moderate
+14,2,Offensive Lineman,1,moderate
+22,7,Quarterback,2,moderate
+16,3,Cornerback,0,mild
+14,2,Offensive Lineman,1,moderate
+22,8,Offensive Lineman,1,moderate
+20,7,Offensive Lineman,2,moderate
+17,4,Quarterback,2,moderate
+14,2,Offensive Lineman,1,moderate
+16,3,Wide Receiver,2,severe
+20,6,Quarterback,2,severe
+15,3,Offensive Lineman,1,moderate
+22,8,Cornerback,0,mild
+20,5,Wide Receiver,2,severe
+14,2,Wide Receiver,2,severe
+16,3,Wide Receiver,0,mild
+19,6,Offensive Lineman,1,moderate
+17,4,Wide Receiver,2,severe
+17,3,Offensive Lineman,1,moderate
+18,4,Running Back,2,severe
+21,8,Cornerback,0,mild
+18,5,Cornerback,0,mild
+15,5,Quarterback,2,severe
+17,5,Offensive Lineman,1,moderate
+20,7,Offensive Lineman,2,moderate
+20,7,Offensive Lineman,1,moderate
+21,7,Offensive Lineman,1,moderate
+21,8,Wide Receiver,0,mild
+21,7,Offensive Lineman,1,moderate
+14,1,Cornerback,0,mild
+18,5,Offensive Lineman,1,moderate
+19,6,Offensive Lineman,1,moderate
+20,5,Offensive Lineman,2,moderate
+22,8,Offensive Lineman,1,moderate
+15,5,Running Back,2,severe
+15,5,Offensive Lineman,0,mild
+14,2,Offensive Lineman,1,moderate
+20,5,Offensive Lineman,1,moderate
+18,5,Cornerback,0,mild
+15,2,Running Back,2,severe
+17,5,Offensive Lineman,2,moderate
+19,4,Cornerback,0,mild
+22,9,Offensive Lineman,2,moderate
+16,3,Cornerback,0,mild

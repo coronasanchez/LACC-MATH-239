@@ -1,4 +1,4 @@
-Before starting, run the code below to import all necessary functions and libraries.
+__Before starting, run the code below to import all necessary functions and libraries.__
 
 # activate R magic
 %load_ext rpy2.ipython

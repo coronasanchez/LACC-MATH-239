@@ -1,6 +1,0 @@
-**Before starting, run the code below to import all necessary functions and libraries.**
-```
-# activate R magic
-%load_ext rpy2.ipython
-%reload_ext rpy2.ipython
-```

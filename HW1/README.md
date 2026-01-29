@@ -53,8 +53,9 @@ hist( weight.lost.data$EWL,
       ylab = 'COUNTS',
       xlab = 'EWL' )
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/4579f7d8-feed-45f5-ba73-813c0a662df4" />
-
+<p align="center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/4579f7d8-feed-45f5-ba73-813c0a662df4" />
+</p>
 ```R
 %%R
 EWL.hist <- ggplot(weight.lost.data, aes(x = EWL)) +
@@ -181,7 +182,9 @@ hist(price,
       ylab = 'COUNTS',
       main = 'Total Number of Car Price')
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/3682de28-7e95-4b44-8564-dc3afd010563" />
+<p align = "center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/3682de28-7e95-4b44-8564-dc3afd010563" />
+</p>
 
 ```R
 %%R
@@ -205,7 +208,9 @@ _Cell output:_
 data:  car.decision.data$price/1000
 W = 0.95482, p-value = 0.28
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/8352e247-3e7e-44f3-9cb1-832f44ffed7f" />
+<p align = "center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/8352e247-3e7e-44f3-9cb1-832f44ffed7f" />
+</p>
 
 **Fit a general linear model**
 ```R
@@ -321,7 +326,9 @@ hist(Sleephours,
       ylim = c(0, 12),
       main = 'Total Hour of Sleep')
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f3714023-668b-43b9-9f05-b1c103dd5e01" />
+<p align = "center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/f3714023-668b-43b9-9f05-b1c103dd5e01" />
+</p>
 
 ```R
 %%R
@@ -344,7 +351,9 @@ _Cell output:_
 data:  sleep.quality.data$Sleephours
 W = 0.98284, p-value = 0.6762
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/bc128cef-cfeb-4b56-bd1a-62eff466b81f" />
+<p align = "center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/bc128cef-cfeb-4b56-bd1a-62eff466b81f" />
+</p>
 
 **Fit a general linear model**
 ```R
@@ -462,7 +471,9 @@ hist(cardiologist.HR.data$HR ,
       ylim = c(0, 6),
       main = 'Total Count of HR')
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c6e6eff6-7c0f-43bc-9199-4df2148fe24a" />
+<p align = "center">
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/c6e6eff6-7c0f-43bc-9199-4df2148fe24a" />
+</p>
 
 ```R
 %%R
@@ -485,7 +496,9 @@ _Cell output:_
 data:  HR
 W = 0.93047, p-value = 0.05054
 ```
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/049a4b51-5caf-4227-8fda-3b635feb31c5" />
+<p align = "center">
+	<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/049a4b51-5caf-4227-8fda-3b635feb31c5" />
+</p>
 
 **Fit a general linear model**
 ```R

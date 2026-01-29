@@ -497,7 +497,7 @@ data:  HR
 W = 0.93047, p-value = 0.05054
 ```
 <p align = "center">
-	<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/049a4b51-5caf-4227-8fda-3b635feb31c5" />
+	<img width="350" height="auto" alt="image" src="https://github.com/user-attachments/assets/049a4b51-5caf-4227-8fda-3b635feb31c5" />
 </p>
 
 **Fit a general linear model**

@@ -7,3 +7,8 @@ https://www.lacc.edu/academics/aos/statistical-data-analytics
 This repo will have solutions to the course. 
 
 Solutions provided was concluded by myself and use of the internet. Do not clone my projects. You can use the code for reference. 
+
+HW 1: General and Generalized Linear Regression Models
+HW 2: Regression Models for Response with Right-skewed Distribution
+HW 3: Regression Models for Response for Binary Response
+HW 4: Regression Models for Categorical Response
